@@ -10,6 +10,6 @@
 - **util.py, preprocs.py, data.py** : Data preprocessor
 - **config.py** : Parameter settings
 - **predict.py**  : Prediction
-- **train.py ** : training
+- **train.py** : training
 - **evaluate.py** : Model evaluation
 - **main.py** : Main program
