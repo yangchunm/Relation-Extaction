@@ -24,6 +24,12 @@
 - **/KG**    : The entities and relatins of Chinese EMRs
 - **/model** : Trained model
 - **/module**  : Neural network model framework
+  - **BaseModule.py** : Basic network framework
+  - **Embedding.py** : Embedded layer
+  - **CNN.py** : Convolutional layer
+  - **AggregationLayer.py** :  Polymerisation layer
+  - **ResNet.py** :  Residual convolution network
+  - **RNN.py** :  LSTM/GRUCirculating neural network
 - **/pretrained**  : Word embedding pre training model
 - **bootstrappint.py**  : Semi supervised learning adjusts the training process
 - **util.py, preprocs.py, data.py** : Data preprocessor
